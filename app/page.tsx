@@ -11,17 +11,17 @@ const Home = () => {
     <div id="full-container">
       <div id="container">
         <div id="content">
-          <h3>Hey, It's me</h3>
+          <h3>Hey, It&apoa;s me</h3>
           <h1>Muhammad Samad</h1>
           <h3>
-            And I'm a{" "}
+            And I&apas;m a{" "}
             <span id="multi-text">
               <TypingEffect />
             </span>
           </h3>
           <p>
             My name is Muhammad Samad, and I am a student enrolled in the
-            Governor's Sindh IT Initiative. I am currently learning about
+            Governor&apos;s Sindh IT Initiative. I am currently learning about
             Generative AI, full-stack development, the metaverse, and Web 3.0
             technologies. This comprehensive program is equipping me with
             cutting-edge skills to navigate and excel in the rapidly evolving
