@@ -11,10 +11,10 @@ const Home = () => {
     <div id="full-container">
       <div id="container">
         <div id="content">
-          <h3>Hey, It&apoa;s me</h3>
+          <h3>Hey, It&apos;s me</h3>
           <h1>Muhammad Samad</h1>
           <h3>
-            And I&apas;m a{" "}
+            And I&apos;m a{" "}
             <span id="multi-text">
               <TypingEffect />
             </span>
